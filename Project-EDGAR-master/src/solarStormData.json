@@ -1,0 +1,15 @@
+[
+    {"date": "1989-03", "name": "March 1989 Geomagnetic storm"},
+    {"date": "1989-08", "name": "August 1989 Geomagnetic storm"},
+    {"date": "1991-11", "name": "Geomagnetic storm of November 1981"},
+    {"date": "2000-04", "name": "April 2000 Geomagnetic storm"},
+    {"date": "2000-07", "name": "Bastille Day solar storm"},
+    {"date": "2001-04", "name": "April 2000 Geomagnetic storm"},
+    {"date": "2001-11", "name": "Geomagnetic storm of November 2001"},
+    {"date": "2003-10", "name": "2003 Halloween solar storms"},
+    {"date": "2003-11", "name": "Solar storms of November 2003"},
+    {"date": "2005-01", "name": "January 2005 solar storms"},
+    {"date": "2015-03", "name": "St. Patrick's Day storm"},
+    {"date": "2017-09", "name": "September 2017 solar storms"},
+    {"date": "2022-02", "name": "SpaceX Starlink satellites failure"}
+]

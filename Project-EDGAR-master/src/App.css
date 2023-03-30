@@ -1,0 +1,175 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.edgarlogo{
+  width: 1 rem;
+}
+
+.navbar-brand{
+  max-width: 17.25 rem;
+  padding: 0;
+}
+
+.navbar-text{
+  color: white;
+}
+
+/******************************* HEADER *******************************/
+.bg1 {
+  position: relative;
+  background: url(space.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+}
+
+
+.info{
+  text-align: center;
+  color: white;
+  padding-top: 125px;
+}
+
+.main-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  text-align: center;
+}
+
+.main-info h1 {
+  color: white
+}
+
+/******************************* INTRO *******************************/
+
+.landing{
+  background-color: #1f2041;
+}
+
+.intro{
+  background-color: #1f2041;
+  color: #c0c5c1;
+  padding: 10px;
+}
+
+.intro h2{
+  color: #DE6E4B;
+}
+
+.lead{
+  color: #A06CD5;
+}
+
+.logo{
+  float: right;
+  padding-right: 100px;
+  padding-top: 5px;
+  vertical-align: middle;
+}
+
+
+/******************************* FORM *******************************/
+
+.gform{
+  width: 1200px;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 15px;
+  border-radius: 1rem;
+  background-color: white;
+  border: 8px solid #332D2D;
+}
+
+.g-div{
+  padding: 10px;
+  text-align-last: center;
+}
+
+.f-div{
+  text-align: right;
+}
+
+.f-label{
+  padding: 6px;
+}
+
+#ct{
+  padding-right: 6px;
+}
+
+#sd{
+  padding-right: 10px;
+}
+
+#ed{
+  padding-right: 16px;
+}
+
+#chart{
+  padding-right: 90px;
+}
+
+/******************************* TUTORIAL *******************************/
+.tutorialListFormat {
+  padding: 5px;
+}
+
+.tutorialImg{
+  box-sizing: border-box;
+  padding: 15px;
+  border-radius: 1rem;
+  background-color: #c0c5c1;
+  border: 8px solid #DE6E4B;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/******************************* ABOUT *******************************/
+.eLogo {
+  float: right;    
+  padding-right: 200px;
+  padding-top: 50px;
+}
+
+h3 {
+  color: #6665DD;
+}
+
+.txtfloat {
+  float: right;
+  padding-top: 75px;
+}
